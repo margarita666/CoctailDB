@@ -4,13 +4,6 @@ import axios from 'axios';
 import './Filters.css'
 import Checkbox from '@material-ui/core/Checkbox';
 
-// export default function Checkboxes() {
-//   const [checked, setChecked] = React.useState(true);
-
-//   const handleChange = event => {
-//     setChecked(event.target.checked);
-//   };
-
 
 class Filters extends React.Component{
   state = { filters: [],
