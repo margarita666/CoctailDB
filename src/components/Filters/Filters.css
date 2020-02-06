@@ -1,0 +1,8 @@
+.filters{
+  display: inline-block;
+  padding: 20px 30px;
+  width:220px;
+}
+.filter-button{
+  width:100%;
+}
